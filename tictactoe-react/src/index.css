@@ -1,0 +1,12 @@
+body{
+  background-color: #203e50;
+  color: #fff;
+  font-family: sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+ol, ul{
+  margin: 0px;
+  padding: 0px;
+}
