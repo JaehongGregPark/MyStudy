@@ -1,0 +1,8 @@
+.GallaryMain {
+  width: 100vw;
+  height: 100vh;
+}
+
+.GallaryMain img {
+  max-width: 25%;
+}
